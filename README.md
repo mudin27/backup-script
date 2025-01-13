@@ -82,6 +82,7 @@ sudo python3 backup_tool.py
 - Ensure Python is installed and added to your system's PATH.
 - Run the script with administrative privileges if encountering permission errors.
 - Check the log file for detailed error messages.
+- On Windows, use PowerShell for the optimal functionality of the script
 
 ## License
 
